@@ -1,0 +1,10 @@
+Flowers|Colours
+Rose|Red
+Sunflower|Yellow
+Tupil|White
+Gerberas|Violet
+Lili|Pink
+Orchid|Green
+Chrysanthemum|Gold
+Lotus|Blue
+Anthurium|Orange
